@@ -1,1 +1,2 @@
-This app I developed is inspired by Instagram Stories. In this app, users can create their accounts and post stories. Each story expires in 24 hours. When an image or story is clicked, all the stories the user has uploaded are displayed in an image slideshow.
+
+This app I developed is inspired by Instagram Stories. In this app, users can create their accounts and post stories, with each story expiring after 24 hours. When an image or story is clicked, all the stories the user has uploaded are displayed in an image slideshow. The backend infrastructure is powered by Firebase, leveraging its robust authentication, Firestore database, and cloud storage services to manage user accounts, store and retrieve stories, and ensure seamless real-time updates across the platform.
