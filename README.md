@@ -1,0 +1,1 @@
+This app I developed is inspired by Instagram Stories. In this app, users can create their accounts and post stories. Each story expires in 24 hours. When an image or story is clicked, all the stories the user has uploaded are displayed in an image slideshow.
